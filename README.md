@@ -8,3 +8,5 @@ Esta es mi primera práctica con GitHub.
 =======
 # SC_302_Documentacion_MN_VictoriaArguedas
 >>>>>>> 417c8b4e5926dfc8e6ab52edfbcb2636775bddf5
+
+Estoy trabajando en una rama nueva.
