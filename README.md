@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_VictoriaArguedas
+# SC\_302\_Documentacion\_MN\_VictoriaArguedas
+
+
+
+Esta es mi primera práctica con GitHub.
+
